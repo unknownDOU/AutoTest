@@ -1,0 +1,23 @@
+{
+	"data": {
+		"allRecordUrl": "https://t-m.mbyundian.com/rewardrecord?rewardRecordStatus=0",
+		"beeValueUrl": "https://t-oapi.mbyundian.com/cloud-shop/shop-h5/myProfit.html?userCode=360BC72D4685946443E",
+		"integralUrl": "https://t-oapi.mbyundian.com/cloud-shop/shop-h5/myProfit.html?userCode=360BC72D4685946443E",
+		"redpoint": false,
+		"rewardUrl": "https://t-oapi.mbyundian.com/cloud-shop/shop-h5/reward.html?userCode=360BC72D4685946443E",
+		"sales": "72.01",
+		"salesUrl": "https://t-oapi.mbyundian.com/cloud-shop/shop-h5/salesVolume.html?userCode=360BC72D4685946443E",
+		"settledRecordUrl": "https://t-m.mbyundian.com/rewardrecord?rewardRecordStatus=2",
+		"settledRewardCash": "0.00",
+		"totalBeeValue": "0",
+		"totalIntegral": "8",
+		"totalReward": "0.00",
+		"totalSettledReward": "0.00",
+		"totalUnsettledReward": "0.00",
+		"tradingRecordUrl": "https://t-m.mbyundian.com/rewardrecord?rewardRecordStatus=1",
+		"unsettledRewardCash": "0.00",
+		"withdrawable": "0"
+	},
+	"message": "",
+	"status": 200
+}
