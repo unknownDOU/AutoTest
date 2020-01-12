@@ -1,0 +1,43 @@
+[
+  {
+    "description": "模拟一个没有参数的post请求",
+    "request": {
+      "uri": "/postDemo",
+      "method": "post"
+    },
+    "response": {
+      "text": "这是一个没有参数的post请求"
+    }
+  },
+  {
+    "description": "模拟一个带参数的post请求",
+    "request": {
+      "uri": "/postWithParam1",
+      "method": "post",
+      "forms": {
+        "name": "张三",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "这是一个通过表单格式传参的post请求"
+    }
+
+  },
+
+  {
+    "description": "模拟一个带参数的post请求",
+    "request": {
+      "uri": "/postWithParam2",
+      "method": "post",
+      "json": {
+        "name": "张三",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "这是一个通过json格式传参的post请求"
+    }
+
+  }
+]

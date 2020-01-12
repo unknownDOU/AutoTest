@@ -1,0 +1,22 @@
+[
+  {
+    "description": "模拟一个必须传headers的post请求",
+    "request": {
+      "uri": "/post/demo/headers",
+      "method": "post",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "forms": {
+        "name": "zhangsan",
+        "sex": "woman"
+      }
+    },
+    "response": {
+      "json": {
+        "message": "success",
+        "status": "1"
+      }
+    }
+  }
+]
